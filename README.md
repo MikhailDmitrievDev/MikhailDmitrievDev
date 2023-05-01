@@ -30,6 +30,7 @@
       
       <h3> DataBases </h3>
       <img src="https://img.shields.io/badge/Redis-orange?style=for-the-badge&logo=Redis&logoColor=white"/>
-    </div>  
+    </div>
+  </div>  
 
 
