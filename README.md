@@ -14,15 +14,12 @@
     </a>
   </div>
   <h1 align="center">Hi there 👋 Im Backend Python Developer</h1>
-<div class="about" style="display: flex;">
-  <div align="left" width="100%">
+
+  <div align="center">
     <h2>My stack:</h2>
     <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/django-green?style=for-the-badge&logo=django&logoColor=white"/>
-  </div>
-  <div align="right" width="100%">
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="300"/>
   </div>  
-</div>
 
 
