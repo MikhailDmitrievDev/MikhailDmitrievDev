@@ -27,8 +27,11 @@
       <img src="https://img.shields.io/badge/DRF-blue?style=for-the-badge&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/Celery-orange?style=for-the-badge&logo=Celery&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-
-      <img src="https://img.shields.io/badge/Redis-orange?style=for-the-badge&logo=Redis&logoColor=white"/>
+      <h3> Backend </h3>
+      <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/django-green?style=for-the-badge&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DRF-blue?style=for-the-badge&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Celery-orange?style=for-the-badge&logo=Celery&logoColor=white"/>
     </div>
   </div>  
 
