@@ -1,7 +1,7 @@
 ### Hi there 👋 Im Backend Python Developer
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/discord-magenta?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
