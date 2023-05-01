@@ -14,6 +14,9 @@
     </a>
   </div>
   <h1 align="center">Hi there 👋 Im Backend Python Developer</h1>
+<div align="left">
+  ### :woman_technologist: About Me :
+</div>
 <div align="right">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="300"/>
 </div>
