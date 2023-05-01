@@ -15,7 +15,7 @@
   </div>
   <h1 align="center">Hi there 👋 Im Backend Python Developer</h1>
 
-  <div align="center" style="display:flex; justify_content:flex-end;">
+  <div align="center">
     <div>
     <h2>My stack:</h2>
       <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white"/>
