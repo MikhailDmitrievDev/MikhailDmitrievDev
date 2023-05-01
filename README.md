@@ -42,7 +42,7 @@
       <img src="https://img.shields.io/badge/react-green?style=for-the-badge&logo=react&logoColor=white"/>
     </div>
     <div>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailDmitrievDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
     </div>
   </div>  
 
