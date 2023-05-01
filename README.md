@@ -26,7 +26,7 @@
       <img src="https://img.shields.io/badge/django-green?style=for-the-badge&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/DRF-blue?style=for-the-badge&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/Celery-orange?style=for-the-badge&logo=Celery&logoColor=white"/>
-      <img src="https://img.shields.io/badge/pytest-orange?style=for-the-badge&logo=pytest&logoColor=white"/>
+      <img src="https://img.shields.io/badge/pytest-yellow?style=for-the-badge&logo=pytest&logoColor=white"/>
       <h3> Databases </h3>
       <img src="https://img.shields.io/badge/Redis-orange?style=for-the-badge&logo=Redis&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
