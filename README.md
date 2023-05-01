@@ -16,9 +16,11 @@
   <h1 align="center">Hi there 👋 Im Backend Python Developer</h1>
 
   <div align="center">
+    <div>
     <h2>My stack:</h2>
-    <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/django-green?style=for-the-badge&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/django-green?style=for-the-badge&logo=django&logoColor=white"/>
+    </div>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="300"/>
   </div>  
 
