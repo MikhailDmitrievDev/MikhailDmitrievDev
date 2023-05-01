@@ -21,26 +21,25 @@
     </div>
     <div>
       <h2>Technology stack</h2>
-      <h3> Backend </h3>
+      <h4> Backend </h4>
       <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/django-green?style=for-the-badge&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/DRF-blue?style=for-the-badge&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/Celery-orange?style=for-the-badge&logo=Celery&logoColor=white"/>
       <img src="https://img.shields.io/badge/pytest-yellow?style=for-the-badge&logo=pytest&logoColor=white"/>
-      <h3> Databases </h3>
+      <h4> Databases </h4>
       <img src="https://img.shields.io/badge/Redis-orange?style=for-the-badge&logo=Redis&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-      <h3> Tools </h3>
+      <h4> Tools </h4>
       <img src="https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=Linux&logoColor=white"/>
       <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white"/>
       <img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white"/>
       <img src="https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white"/>
-      <h3> Learning </h3>
+      <h4> Learning </h4>
       <img src="https://img.shields.io/badge/typescript-yellow?style=for-the-badge&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-      
+      <img src="https://img.shields.io/badge/react-green?style=for-the-badge&logo=react&logoColor=white"/>
     </div>
   </div>  
 
