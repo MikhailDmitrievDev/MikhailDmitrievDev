@@ -32,6 +32,7 @@
       <h3> Tools </h3>
       <img src="https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=Linux&logoColor=white"/>
       <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white"/>
+      
     </div>
   </div>  
 
