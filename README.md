@@ -20,7 +20,7 @@
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="300"/>
     </div>
     <div>
-      <h2>My stack:</h2>
+      <h2>Stack:</h2>
       <h3> Backend </h3>
       <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/django-green?style=for-the-badge&logo=django&logoColor=white"/>
