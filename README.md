@@ -41,7 +41,9 @@
       <img src="https://img.shields.io/badge/typescript-yellow?style=for-the-badge&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/react-green?style=for-the-badge&logo=react&logoColor=white"/>
     </div>
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+    <div>
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+    </div>
   </div>  
 
 
