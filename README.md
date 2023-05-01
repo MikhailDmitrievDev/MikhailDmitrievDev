@@ -33,8 +33,8 @@
       <img src="https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=Linux&logoColor=white"/>
       <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white"/>
-      <img src="https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white"/>
-      <img src="https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white"/>
       <img src="https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white"/>
     </div>
   </div>  
