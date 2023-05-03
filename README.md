@@ -36,7 +36,6 @@
       <img src="https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white"/>
       <img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white"/>
-      <img src="https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white"/>
       <h4> Learning </h4>
       <img src="https://img.shields.io/badge/typescript-yellow?style=for-the-badge&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/react-green?style=for-the-badge&logo=react&logoColor=white"/>
