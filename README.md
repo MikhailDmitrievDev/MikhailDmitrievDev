@@ -1,4 +1,4 @@
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailDmitrievDev&layout=compact)](https://github.com/MikhailDmitrievDev/github-readme-stats)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/IWiAPmq1HS9QZRu8PT/giphy-downsized-large.gif" width="100"/>
 </div>
@@ -18,8 +18,6 @@
   <div align="center">
     <div>
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="300"/>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailDmitrievDev&layout=compact)](https://github.com/MikhailDmitrievDev/github-readme-stats)
-      
     </div>
     <div>
       <h2>Technology stack</h2>
