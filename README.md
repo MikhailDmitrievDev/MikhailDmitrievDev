@@ -13,7 +13,9 @@
   </a>
 </div>
 <h1 align="center">Hi there 👋 Im Backend Python Developer</h1>
-
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailDmitrievDev&layout=compact)](https://github.com/MikhailDmitrievDev/github-readme-stats)
+</div>
 <div align="center">
   <div>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="300"/>
@@ -40,7 +42,5 @@
     <img src="https://img.shields.io/badge/react-green?style=for-the-badge&logo=react&logoColor=white"/>
   </div>
 </div> 
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailDmitrievDev&layout=compact)](https://github.com/MikhailDmitrievDev/github-readme-stats)
-</div>
+
 
