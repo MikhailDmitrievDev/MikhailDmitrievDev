@@ -1,3 +1,6 @@
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailDmitrievDev&layout=compact)](https://github.com/MikhailDmitrievDev/github-readme-stats)
+</div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/IWiAPmq1HS9QZRu8PT/giphy-downsized-large.gif" width="100"/>
 </div>
@@ -13,9 +16,7 @@
   </a>
 </div>
 <h1 align="center">Hi there 👋 Im Backend Python Developer</h1>
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailDmitrievDev&layout=compact)](https://github.com/MikhailDmitrievDev/github-readme-stats)
-</div>
+
 <div align="center">
   <div>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="300"/>
