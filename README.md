@@ -39,5 +39,6 @@
       <img src="https://img.shields.io/badge/typescript-yellow?style=for-the-badge&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/react-green?style=for-the-badge&logo=react&logoColor=white"/>
     </div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailDmitrievDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailDmitrievDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
