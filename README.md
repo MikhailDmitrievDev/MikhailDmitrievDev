@@ -14,11 +14,12 @@
     </a>
   </div>
   <h1 align="center">Hi there 👋 Im Backend Python Developer</h1>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailDmitrievDev&layout=compact)](https://github.com/MikhailDmitrievDev/github-readme-stats)
 
   <div align="center">
     <div>
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="300"/>
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailDmitrievDev&layout=compact)](https://github.com/MikhailDmitrievDev/github-readme-stats)
+      
     </div>
     <div>
       <h2>Technology stack</h2>
