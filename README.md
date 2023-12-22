@@ -22,6 +22,7 @@
         <h2>Technology stack</h2>
         <h4> Language </h4>
         <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/js-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
         <h4> Backend </h4>
         <img src="https://img.shields.io/badge/django-green?style=for-the-badge&logo=django&logoColor=white"/>
         <img src="https://img.shields.io/badge/DRF-blue?style=for-the-badge&logo=django&logoColor=white"/>
