@@ -20,8 +20,9 @@
     </div>
     <div>
         <h2>Technology stack</h2>
-        <h4> Backend </h4>
+        <h4> Language </h4>
         <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+        <h4> Backend </h4>
         <img src="https://img.shields.io/badge/django-green?style=for-the-badge&logo=django&logoColor=white"/>
         <img src="https://img.shields.io/badge/DRF-blue?style=for-the-badge&logo=django&logoColor=white"/>
         <img src="https://img.shields.io/badge/Celery-orange?style=for-the-badge&logo=Celery&logoColor=white"/>
