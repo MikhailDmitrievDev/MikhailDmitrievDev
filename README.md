@@ -16,7 +16,7 @@
 <h1 align="center">Hi there 👋 Im Backend Python Developer</h1>
 <div align="center">
     <div>
-      <img src="https://i.postimg.cc/Pxps60rb/github.png" alt="github" width="500" height="500"/>
+      <img src="https://i.postimg.cc/Pxps60rb/github.png" alt="github" width="500" height="400"/>
     </div>
     <div>
         <h2>Technology stack</h2>
