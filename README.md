@@ -1,6 +1,3 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/IWiAPmq1HS9QZRu8PT/giphy-downsized-large.gif" width="100"/>
-</div>
 <div id="badges" align="center">
     <a href="https://t.me/futhep">
       <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
