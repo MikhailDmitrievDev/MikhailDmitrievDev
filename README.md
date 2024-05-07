@@ -10,9 +10,5 @@
     </a>
 </div>
 
-<h1 align="center">Hi there 👋 Im Backend Python Developer</h1>
-<div align="center">
-    <div>
-      <img src="https://i.postimg.cc/Pxps60rb/github.png" alt="github" width="500" height="400"/>
-    </div>
-</div>
+<h1 align="center">Backend Python Developer</h1>
+
