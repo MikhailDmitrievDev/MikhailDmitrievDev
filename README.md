@@ -37,5 +37,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 <div>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikhailDmitrievDev)](https://git.io/streak-stats)
 </div>
