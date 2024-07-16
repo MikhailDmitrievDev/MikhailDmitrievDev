@@ -35,5 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-
+</div>
+<div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailDmitrievDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
