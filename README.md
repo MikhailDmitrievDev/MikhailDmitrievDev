@@ -12,7 +12,7 @@
 
 <h1 align="center">Backend Python Developer</h1>
 
-<div>
+<div style="display: flex;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elastic" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-line.svg" title="CSharp" **alt="Git" width="40" height="40"/>
