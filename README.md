@@ -12,7 +12,7 @@
 
 <h1 align="center">Backend Python Developer</h1>
 
-<div style="display: flex;">
+<div align="center">
   <h2> My work stack </h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="CSharp" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="Fastapi" width="40" height="40"/>&nbsp;
